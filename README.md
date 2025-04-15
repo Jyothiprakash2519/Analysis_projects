@@ -1,6 +1,6 @@
 # Analysis_projects
 
-1.  Exploratory Data Analysis (EDA) on a Dataset project
+1.Exploratory Data Analysis (EDA) on a Dataset project
 -> Performed classic EDA on the Iris flower dataset to understand species distribution and relationships between petal and sepal dimensions.
 -> Utilized visualizations and statistical summaries to support classification readiness for machine learning tasks.
 -> Skills: Python, Numpy, Pandas, Matplotlib, Seaborn
